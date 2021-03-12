@@ -1,4 +1,4 @@
-echo ">>>>>>>>>>>>>>>>>> third 3rd version of data <<<<<<<<<<<<<<<<<<<<<<"
+echo ">>>>>>>>>>>>>>>>>> 4th version of data <<<<<<<<<<<<<<<<<<<<<<"
 date 
 cal
 echo bybyby
